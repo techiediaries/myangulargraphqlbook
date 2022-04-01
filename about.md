@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Full Stack Development with Angular and GraphQL"
-description: "Learn to build scalable monorepo and a complete Angular app using Apollo, Lerna, and GraphQL"
+title: 'Full Stack Development with Angular and GraphQL'
+description: 'Learn to build scalable monorepo and a complete Angular app using Apollo, Lerna, and GraphQL'
 background: '/img/bg-about.jpg'
 ---
 
-**Build a small social network with Angular and GraphQL. Use tools such as Lerna and GraphQL Code Generator to build a scalable web app and leverage Apollo Client's reactive variables to easily manage the local state of your app.** 
+Build a small social network with Angular and GraphQL. Use tools such as Lerna and GraphQL Code Generator to build a scalable web app and leverage Apollo Client's reactive variables to easily manage the local state of your app. 
 
-## ***Key Features***
+## Key Features
 
 - Utilize Angular modules and components to create scalable and maintainable applications in the future.
 - Utilize Node.js, Express, and Apollo Server to create a GraphQL API for a tiny social networking application.
@@ -16,7 +16,7 @@ background: '/img/bg-about.jpg'
 - Build a GraphQL schema for a social network app.
 - Build An Angular frontend styled with Material design components for a social network application.
 
-## ***Book Description***
+## Book Description
 
 Today's web app developers love Angular because it allows them to create apps, reuse code, and target any number of different deployment scenarios. GraphQL is a contemporary and REST alternative for querying APIs on the web. In this book will take benefit of a scalable and future-proof stack for creating a social network app using Angular, TypeScript, and GraphQL.
 
@@ -28,7 +28,7 @@ You'll discover Apollo Client's type and field policies, as well as several fetc
 
 By the conclusion of this book, you'll have the knowledge and abilities required to create your own full stack application.
 
-## ***What you will learn***
+## What you will learn
 
 - Build a monorepo project with Lerna and NPM workspaces
 - Implement realtime support with GraphQL subscriptions
@@ -37,11 +37,11 @@ By the conclusion of this book, you'll have the knowledge and abilities required
 - Utilize Angular modules and smart and dumb components and share data between them
 - Utilize Apollo Client features such as client-side queries and reactive variables for local state management
 
-## ***Who this book is for***
+## Who this book is for
 
 This Angular GraphQL book is intended for Angular developers interested in learning how to utilize GraphQL and Apollo in conjunction with Angular to create full-stack apps. This book makes no presumptions about past experience with full-stack development using Angular and GraphQL.
 
-## ***Table of Contents***
+## Table of Contents
 
 1. App Architecture and Development Environment
 2. Setting Up GraphQL with Node.js, Express.js, and Apollo
