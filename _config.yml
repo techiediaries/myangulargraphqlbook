@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Angular GraphQL Book
+email:              email@angulargraphqlbook.com
+description:        "Full Stack Development with Angular and GraphQL: Learn to build scalable monorepo and a complete Angular app using Apollo, Lerna, and GraphQL"
+author:             Ahmed Bouchefra
+baseurl:            "/"
+url:                "http://angulargraphqlbook.com"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   techiediaries
+github_username:    techiediaries
+facebook_username:  techiediaries9
 instagram_username:  
 linkedin_username:
 
