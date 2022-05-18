@@ -29,16 +29,25 @@ The introduction of Angular v13 by Google was more of an incremental update. It 
 
 Here are some features of Angular 14:
 
-## Big Upgrades Expected Out of Angular 14
+## The new features of Angular 14
 
 Angular 14, the next significant update to the popular Google-developed TypeScript-based web framework, will include fully typed reactive forms and expanded template diagnostics. With addition, modules will become optional in the June release.
 
 
-## Strict  typing for reactive forms
+## Typed reactive forms
 
 Angular 14 provided an improvement to the reactive forms which is type-checking that will be more convenient and versatile than ever before. Angular's goal is to create a system that can be used with different Angular versions in the future. Doing so will not result in a backwards step.
 
 This will help programmers to catch mistakes early on, which will save them a lot of work in the long run.
+
+## Angular CLI Auto Completion
+
+Ng completion is a new feature added in angular cli version 14 that enables developers to add real-time type ahead auto completion to their bash or zsh terminals.
+
+The first time you must execute the `ng completion` command in your terminal.
+
+You can just type `ng` command then press **Tab** to view all of the possible choices and **Enter** to choose one of them, moreover if we are working on an angular 14 project more auto completion options, such as the `ng generate` command options, are available.
+
 
 ## Optional angular modules and standalone components
 
